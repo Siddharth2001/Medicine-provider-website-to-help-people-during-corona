@@ -1,0 +1,36 @@
+body{
+	font-family:montserrant;
+	background-color:pink;
+}
+.collapseExample{
+	background-color: pink;
+}
+#title{
+	color:#fff;
+	
+}
+.containor{
+	background-color:gray;
+}
+h1{
+	
+	font-family:montserrant-black;
+	font-size: 3rem;
+	line-height:1.5;
+}
+.containor-fluid{
+	padding: 3% 15%;
+}
+/*navigation bar*/
+
+.navbar{
+	padding-bottom:4.5rem;
+}
+.navbar-brand {
+	font-family:ubuntu;
+	font-size:4.5rem;
+	font-weight:bold;
+}
+.nav-item{
+	padding:0 18px;
+}

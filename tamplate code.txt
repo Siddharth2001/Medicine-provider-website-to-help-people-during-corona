@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Quinine Sluphate</title>
+</head>
+<body style="background-color:gray;">
+<h2 align="center">Quinine Sluphate 300mg</h2>
+<div align="center">
+	<img src=".Quinine Sluphate.JFIF" alt="Quinine sulphate" height="400" width="600" >
+</div>
+<pre style="font-size:20px" align="left">
+paragraph 
+</pre>
+
+</body>
+</html>
